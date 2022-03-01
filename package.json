@@ -1,0 +1,20 @@
+{
+  "name": "vigilant-octo-waffle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonsamper/vigilant-octo-waffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonsamper/vigilant-octo-waffle/issues"
+  },
+  "homepage": "https://github.com/antonsamper/vigilant-octo-waffle#readme",
+}
